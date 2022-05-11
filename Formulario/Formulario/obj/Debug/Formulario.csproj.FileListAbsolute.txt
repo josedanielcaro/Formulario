@@ -1,0 +1,10 @@
+C:\Users\Proyecto\Desktop\Formulario\Formulario\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\Proyecto\Desktop\Formulario\Formulario\Formulario\bin\Debug\Formulario.exe
+C:\Users\Proyecto\Desktop\Formulario\Formulario\Formulario\bin\Debug\Formulario.pdb
+C:\Users\Proyecto\Desktop\Formulario\Formulario\Formulario\obj\Debug\Formulario.csprojResolveAssemblyReference.cache
+C:\Users\Proyecto\Desktop\Formulario\Formulario\Formulario\obj\Debug\Formulario.Form1.resources
+C:\Users\Proyecto\Desktop\Formulario\Formulario\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\Proyecto\Desktop\Formulario\Formulario\Formulario\obj\Debug\Formulario.csproj.GenerateResource.Cache
+C:\Users\Proyecto\Desktop\Formulario\Formulario\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Proyecto\Desktop\Formulario\Formulario\Formulario\obj\Debug\Formulario.exe
+C:\Users\Proyecto\Desktop\Formulario\Formulario\Formulario\obj\Debug\Formulario.pdb
